@@ -68,8 +68,6 @@ Multi Node Architecture- A node is a single computer or server. "Multi-Node" ref
 
 
 
-![image](https://github.com/user-attachments/assets/a8a0c033-0b3d-4848-b0ec-226a6d3b0287)
-
 
 
 
